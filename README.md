@@ -5,4 +5,4 @@ Untuk mendeploy aplikasi profile. Kita ada beberapa cara. Saya menggunakan app e
 ```cmd
 gcloud app deploy
 ```
-Kita bisa klin Navigation **Menu** >> **App Engine**. Dan sebelah kanan pojok atas akan ada link dan kita bisa klik linknya untuk melihat apakah website sudah terhosting atau belum.
+Kita bisa klin **Navigation Menu** >> **App Engine**. Dan sebelah kanan pojok atas akan ada link dan kita bisa klik linknya untuk melihat apakah website sudah terhosting atau belum.
